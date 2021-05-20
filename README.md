@@ -4,7 +4,7 @@
 - Undeclared Student
 - Frontend Newbie
 - Algorithm Enthusiast
-- Anime Lovers
+- Anime Lover
 
 > El Psy Kongroo
 
