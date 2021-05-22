@@ -1,7 +1,7 @@
 ### Hi, I'm Songhn!
 
 
-- College Student
+- Undergraduate
 - Frontend Newbie
 - Algorithm Enthusiast
 - Anime Lover
