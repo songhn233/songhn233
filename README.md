@@ -4,7 +4,7 @@
 - Undergraduate
 - Frontend Newbie
 - Algorithm Enthusiast
-- Anime Lover
+- Interested in data visualization
 
 > El Psy Kongroo
 
