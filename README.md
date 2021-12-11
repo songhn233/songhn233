@@ -15,7 +15,7 @@
 - 😢 Don't know anything about UI & UX
 - 📊 Interest in topology diagrams and visualization
 - 🏳️ Retired algorithmic player who has not won awards
-- 🍵 Watch anime and VTubers during breaks
+- 🍵 Watch Anime and Vtubers during breaks
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
