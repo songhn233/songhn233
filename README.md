@@ -20,10 +20,6 @@
 - [My Email](mailto:songhn233@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -37,7 +33,7 @@ GitIgnore file           7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/06/2022 11:34:05 UTC
+ Last Updated on 07/06/2022 11:39:26 UTC
 <!--END_SECTION:waka-->
 
 > El Psy Kongroo
