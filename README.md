@@ -2,7 +2,7 @@
 
 **TL;DR**
 
-- 🎓 Undergraduate
+- 🎓 Junior Undergraduate
 - ✨ Frontend Newbie
 - 🎈 Algorithm Enthusiast
 - 📈 Interested in data visualization
