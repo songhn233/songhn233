@@ -24,14 +24,12 @@
 
 ```text
 💬 Programming Languages: 
-GraphQL                  13 mins             █████████████░░░░░░░░░░░░   51.86% 
-TypeScript               11 mins             ███████████░░░░░░░░░░░░░░   43.76% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/10/2022 04:36:43 UTC
+ Last Updated on 08/10/2022 04:23:45 UTC
 <!--END_SECTION:waka-->
 
 > El Psy Kongroo
