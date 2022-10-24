@@ -5,15 +5,14 @@
 - 🎓 Junior Undergraduate
 - ✨ Frontend Newbie
 - 🎈 Algorithm Enthusiast
-- 📈 Interested in data visualization
 
 **Details**
 
 - 🎯 My main focus now is on React
-- ✨ Try to write rust projects in 2022
-- 📊 Interest in topology diagrams and visualization
+- ✨ Try to build rust projects in 2022
+- 📊 Interest in data visualization
 - 🏳️ Retired competitive programmer who has not won any awards
-- 🍵 Watch Anime and Nana7mi during breaks
+- 🍵 Watch Nana7mi and Anime during breaks
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
