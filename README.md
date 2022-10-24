@@ -13,7 +13,7 @@
 - ✨ Try to write rust projects in 2022
 - 📊 Interest in topology diagrams and visualization
 - 🏳️ Retired competitive programmer who has not won any awards
-- 🍵 Watch Anime and Vtubers during breaks
+- 🍵 Watch Anime and Nana7mi during breaks
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
