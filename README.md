@@ -15,7 +15,7 @@
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
-- [My Email](mailto:songhn233@gmail.com)
+- [My Email](mailto:nana7mi@duck.com)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
