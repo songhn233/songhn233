@@ -9,9 +9,8 @@
 **Details**
 
 - 🎯 My main focus now is on React
-- ✨ Try to build rust projects in 2022
 - 📊 Interest in data visualization
-- 🏳️ Retired competitive programmer who has not won any awards
+- 🏳️ Retired competitive programmer
 - 🍵 Watch Nana7mi and Anime during breaks
 
 **Contact**
