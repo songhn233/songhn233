@@ -11,7 +11,7 @@
 - 🎯 My main focus now is on React
 - 📊 Interest in data visualization
 - 🏳️ Retired competitive programmer
-- 🍵 Nana7mi and Anime during breaks
+- 🍵 VTubers and Anime during breaks
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
