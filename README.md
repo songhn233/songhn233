@@ -8,8 +8,9 @@
 
 **Details**
 
-- 🎯 My main focus now is on React
+- 🎯 Work mostly with React & Node.js
 - 📊 Interest in data visualization
+- ☁️ Current focus on Observability & DevOps domains
 - 🏳️ Retired competitive programmer
 - 🍵 VTubers and Anime during breaks
 
