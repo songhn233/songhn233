@@ -12,7 +12,6 @@
 - 📊 Interest in data visualization
 - ☁️ Current focus on Observability & DevOps domains
 - 🏳️ Retired competitive programmer
-- 🍵 VTubers and Anime during breaks
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
