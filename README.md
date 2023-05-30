@@ -11,7 +11,7 @@
 - 🎯 Work mostly with React & Node.js
 - 📊 Interest in data visualization
 - ☁️ Current focus on Observability & DevOps domains
-- 🏳️ Retired competitive programmer
+- 🏳️ Retired ACMer or OIer
 
 **Contact**
 - [My Blog](https://blog.songhn.com)
