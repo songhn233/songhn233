@@ -2,7 +2,6 @@
 
 **TL;DR**
 
-- 🎓 Senior Undergraduate
 - ✨ Frontend Newbie
 - 🎈 Algorithm Enthusiast
 
