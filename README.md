@@ -13,7 +13,6 @@
 - 🏳️ Retired ACMer or OIer
 
 **Contact**
-- [My Blog](https://blog.songhn.com)
 - [My Email](mailto:songhn233@gmail.com)
 
 <!--START_SECTION:waka-->
