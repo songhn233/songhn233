@@ -20,11 +20,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              █████████████░░░░░░░░░░░░   52.82 % 
+JSON                     3 mins              ████████████░░░░░░░░░░░░░   47.18 % 
 ```
 
 
- Last Updated on 12/02/2025 03:41:36 UTC
+ Last Updated on 13/02/2025 03:41:33 UTC
 <!--END_SECTION:waka-->
 
 > El Psy Kongroo
