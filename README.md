@@ -1,30 +1,14 @@
 ### Hi, I'm Songhn!
 
-**TL;DR**
+**About Me**
 
-- ✨ Frontend Newbie
-- 🎈 Algorithm Enthusiast
-
-**Details**
-
-- 🎯 Work mostly with React & Node.js
-- 📊 Interest in data visualization
-- ☁️ Current focus on Observability & DevOps domains
-- 🏳️ Retired ACMer or OIer
+* ✨ Frontend Developer
+* 📊 Interested in data visualization
+* ☁️ Previously focused on Observability & DevOps domains
+* 🧠 Retired ACMer / OIer
 
 **Contact**
-- [My Email](mailto:songhn233@gmail.com)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 27/05/2026 07:47:27 UTC
-<!--END_SECTION:waka-->
+* [My Email](mailto:songhn233@gmail.com)
 
 > El Psy Kongroo
